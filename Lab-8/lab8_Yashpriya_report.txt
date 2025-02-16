@@ -1,0 +1,22 @@
+Exercise-3: Pseudo-code for checking if a given no. is prime or not -
+
+Is_prime (int num)
+{
+int num = get value from the user ()
+// set prime to true
+prime=true
+  while (i=2 to i<num)
+  {
+    if (num%i == 0)
+     {
+      // set prime to false
+      prime=false
+      break
+     }
+    else
+      {
+       i=i+1
+      }
+    echo "The num is a prime number:" true
+  }
+} 
