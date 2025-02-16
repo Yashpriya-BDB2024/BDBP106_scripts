@@ -1,0 +1,4 @@
+Exercise-3: -e parameter is used to check for both files and directories. 
+If we use -f parameter to check for the directory, then, it will consider directory as a file & will show that the directory entered exists.
+
+Exercise-5: If we use cp command without any parameter, it will copy only files and not the directories. But if we run cp -r command, then it will copy all the files and directories (including sub-directories). So, after doing ls, we will see the duplicates (.bak) of all the files and directories. 
